@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "src/index.js",
     "dependencies": {
-      "react": "^18.2.0"
+        "@antopolis/admin-component-library": "^1.1.36",
+        "react": "^18.2.0"
     }
-  }
-  
+}
